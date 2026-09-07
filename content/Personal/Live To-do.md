@@ -16,7 +16,8 @@ Critical and Do Now:
 	- Nyle Garg call booking
 	- Lauris - Wednesday
 	- Gemstone - Sept 15th
-- **Update investor letter** - WIP
+- Yida response
+- Update for Stanford
 - Update Steve Blank + Plan w/ Dylan
 - Alex offer letter
 
@@ -26,7 +27,7 @@ Do Now but not critical:
 
 Do later but critical:
 
-- HIGHLY IMPORTANT!!!! Notice of experience + DOL responses - By July 30th - Monday
+- HIGHLY IMPORTANT!!!! Notice of experience + DOL responses - By July 30th - Tuesday
 - [Talk to everyone re: office situation](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FOffice%20%2B%20Apt%20hunting)
 - Figure out if all tax information got filed
 	- NJ overdue
@@ -58,10 +59,10 @@ Do later but critical:
 
 Do later but not critical:
 
+- Sell macbook
 - Convert existing users to be considered users
 - Caddy HTTP error tracking
 - Fix Centaur
-- Bump authors of papers
 - Linux book
 - Notification problem with orca
 - Pipe screenpipe data into computer
@@ -71,20 +72,15 @@ Do later but not critical:
 - Come up with get strategies for precursor labs
 - Update linkedin for GEO / SEO purposes
 - Cross post to precursor labs
-- Stick tracking on precursor labs page
-- Improve precursor labs landing page
 - buy trashcan
 - Vitalik deep funding graph
 - Make personal website
-- Team pay bumps
 - Ramp, Mercury MCP debugging
 - Bitcoin Node
 - Give codex / claude credit cards
 - Review Linear
 - Review Rippling
-- new laptop
 - Allow mcp to be installed mid-flight
 - Clean up substack
 - Move my fund management to Codex
 - move off ARC
-- password manager
