@@ -11,24 +11,25 @@ Main To-dos:
 
 Critical and Do Now:
 - Waiting
-	- Wire Manoli
-	- B3IQ Response
-	- Nyle Garg call booking
+	- Aster response re: orbio
+	- B3IQ Response - Wednesday
 	- Lauris - Wednesday
+	- Wire Manoli
 	- Gemstone - Sept 15th
+	- Nyle Garg call booking
 - Update for Stanford
-	- Come up with statistics to show users
-	- Fix copy
 	- Implement Niyants images / graph
+	- Come up with statistics to show users
+	- Update copy properly
 - Prep Yida response
-- TTFT / TPS items
+- TTFT / TPS items - WIP
 - Trader Joes run
 - 3:30pm Tensorwave Call
-- Integrate Orbio
 - Alex offer letter
 
 Do Now but not critical:
 
+- Figure out dinner w/ rents
 - Update Notion
 - Update Steve Blank
 
