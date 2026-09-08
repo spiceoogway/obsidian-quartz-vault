@@ -11,20 +11,19 @@ Main To-dos:
 
 Critical and Do Now:
 - Waiting
-	- Aster response re: orbio
+	- Orbio post Alex's integration
 	- B3IQ Response - Wednesday
 	- Lauris - Wednesday
 	- Wire Manoli
 	- Gemstone - Sept 15th
 	- Nyle Garg call booking
 - Update for Stanford
-	- Implement Niyants images / graph
-	- Come up with statistics to show users
+	- Adjust Niyant's graph to be less slop
+	- Alex's run stats
 	- Update copy properly
 - Prep Yida response
-- TTFT / TPS items - WIP
-- Trader Joes run
-- 3:30pm Tensorwave Call
+	- 
+- TTFT / TPS items
 - Alex offer letter
 
 Do Now but not critical:
