@@ -16,35 +16,41 @@ Critical and Do Now:
 	- Nyle Garg call booking
 	- Lauris - Wednesday
 	- Gemstone - Sept 15th
-- Yida response
 - Update for Stanford
-- Update Steve Blank + Plan w/ Dylan
+	- Come up with statistics to show users
+	- Fix copy
+	- Implement Niyants images / graph
+- Prep Yida response
+- TTFT / TPS items
+- Trader Joes run
+- 3:30pm Tensorwave Call
+- Integrate Orbio
 - Alex offer letter
 
 Do Now but not critical:
 
-- 
+- Update Notion
+- Update Steve Blank
 
 Do later but critical:
 
-- HIGHLY IMPORTANT!!!! Notice of experience + DOL responses - By July 30th - Tuesday
-- [Talk to everyone re: office situation](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FOffice%20%2B%20Apt%20hunting)
 - Figure out if all tax information got filed
 	- NJ overdue
 	- Did the letters go through
-- Mandel Dermatology payment
-- Distribute SpaceX shares
+- HIGHLY IMPORTANT!!!! Notice of experience + DOL responses - By July 30th - Tuesday
+- [Talk to everyone re: office situation](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FOffice%20%2B%20Apt%20hunting)
 - Plan out next sangha visit (11th or 18th, Tuesday, requires registration)
 - Finances:
+	- Mandel Dermatology payment
 	- Move stablecoins through privacy pools and purchase QQQ
 	- Balance sf + x corp charges
 	- Get capital call FFIV from Alex
+	- Distribute SpaceX shares
 	- Figure our spacex distribution (2886, 460, 50, 10)
 		- Requires figuring out tax stuff
 	- Figure out Prometheus distribution (65,3,7 * 1125)
 	- Figure out BTC / ETH allocation.
 		- latest points to swapping btc for eth
-	- Did tax stuff get sent over properly?
 - Team finances:
 	- Figure out T bill ladder strategy
 	- Figure out optimal SOL team allocation
