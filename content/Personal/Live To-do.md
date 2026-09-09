@@ -18,12 +18,9 @@ Critical and Do Now:
 	- Gemstone - Sept 15th
 	- Nyle Garg call booking
 - Update for Stanford
-	- Adjust Niyant's graph to be less slop
 	- Alex's run stats
 	- Update copy properly
-- Prep Yida response
-	- 
-- TTFT / TPS items
+- Update Yida response draft
 - Alex offer letter
 
 Do Now but not critical:
