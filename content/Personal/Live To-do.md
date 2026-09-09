@@ -13,23 +13,26 @@ Critical and Do Now:
 - Waiting
 	- Orbio post Alex's integration
 	- B3IQ Response - Wednesday
-	- Lauris - Wednesday
 	- Wire Manoli
 	- Gemstone - Sept 15th
 	- Nyle Garg call booking
-- Second plan update
-- Lauris call
-- Update for Stanford
+- **Update for Stanford - WIP**
 	- Alex's run stats
 	- Update copy properly
-- Update Yida response draft
-- Alex offer letter
+- **Alex offer letter - WIP**
+	- Separate the packet from the education
+	- Rebuild the packet
+	- Simplify and make it significantly more educational
+- Update Notion
+- Update Steve Blank
+- GTM
+	- Get people from waitlist
+	- Reddit post
+	- Figure out reflink page situation
+	- Better analytics
 
 Do Now but not critical:
 
-- Figure out dinner w/ rents
-- Update Notion
-- Update Steve Blank
 
 Do later but critical:
 
