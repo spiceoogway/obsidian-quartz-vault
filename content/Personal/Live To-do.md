@@ -12,17 +12,16 @@ Main To-dos:
 Critical and Do Now:
 - Waiting
 	- Orbio post Alex's integration
-	- B3IQ Response - Wednesday
+	- B3IQ Response - Thursday
 	- Wire Manoli
 	- Gemstone - Sept 15th
 	- Nyle Garg call booking
 - **Update for Stanford - WIP**
 	- Alex's run stats
 	- Update copy properly
-- **Alex offer letter - WIP**
-	- Separate the packet from the education
-	- Rebuild the packet
-	- Simplify and make it significantly more educational
+- **Alex offer letter** - tonight
+	- Review the latest packets
+- **Matlec gets a forced update.** - WIP
 - Update Notion
 - Update Steve Blank
 - GTM

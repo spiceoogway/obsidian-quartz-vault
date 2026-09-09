@@ -8,3 +8,7 @@
 - 0731 flash
 - TTFT is terrible
 - Terrible TPS 
+
+9.9 Bug Problems
+- **Don't make changes to Control API** - to some point today
+- **Don't make changes to Lite LLM** - to some point today
