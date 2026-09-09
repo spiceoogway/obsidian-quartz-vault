@@ -17,6 +17,8 @@ Critical and Do Now:
 	- Wire Manoli
 	- Gemstone - Sept 15th
 	- Nyle Garg call booking
+- Second plan update
+- Lauris call
 - Update for Stanford
 	- Alex's run stats
 	- Update copy properly
