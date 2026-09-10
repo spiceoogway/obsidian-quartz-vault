@@ -5,6 +5,8 @@ Team Check-ins:
 		- How is this problem mitigated in actual research scenarios. Are there heuristics for how many iterations it takes?
 Broad:
 - Acq:
+	- Figure out whether we can quote our way into the "knee" on Surplus
+	- Get listing on other routers
 	- Reddit GTM
 	- Ref link changeup
 - Product:
@@ -15,14 +17,9 @@ Broad:
 	- Decrease felt GPU price by 50%
 	- Orbio
 - Tech
-	- Request bouncing
 	- Can we flex stats
-	- For Surplus:
-		- Figure out at what request / min we're at the "knee"
-		- Figure out whether we can quote our way into the "knee" on Surplus
 	- v4 flash can we serve
 	- hetzner
-	- 
 
 Critical and Do Now:
 - Waiting
