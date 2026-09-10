@@ -1,12 +1,8 @@
-Main To-dos:
-- 
-
-60% Main
-- [Create a twitter posting strategy](obsidian://open?vault=Jakub%20Janiak%20Raw%20Notes&file=Notes%2FTwitter%20Poasting)
-- Steve Blank Hypotheses
-20% Parallel Workstream
-- B3IQ
-20% Automation
+Team Check-ins:
+- For Niyant
+	- Check in Saturday on training progress
+	- If training went badly, and Niyant thinks it's a data pipeline / quality issue then I think it requires intervention
+		- How is this problem mitigated in actual research scenarios. Are there heuristics for how many iterations it takes?
 - 
 
 Critical and Do Now:
