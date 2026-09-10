@@ -16,16 +16,17 @@ Critical and Do Now:
 	- Wire Manoli
 	- Gemstone - Sept 15th
 	- Nyle Garg call booking
+- Tn
+	- stanford update
+	- alex offer letter
+	- put out reddit post
 - **Update for Stanford - WIP**
 	- Alex's run stats
 	- Update copy properly
 - **Alex offer letter** - tonight
 	- Review the latest packets
-- **Matlec gets a forced update.** - WIP
-- Update Notion
 - Update Steve Blank
 - GTM
-	- Get people from waitlist
 	- Reddit post
 	- Figure out reflink page situation
 	- Better analytics
