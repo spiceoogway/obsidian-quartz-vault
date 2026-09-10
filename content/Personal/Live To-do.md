@@ -3,7 +3,26 @@ Team Check-ins:
 	- Check in Saturday on training progress
 	- If training went badly, and Niyant thinks it's a data pipeline / quality issue then I think it requires intervention
 		- How is this problem mitigated in actual research scenarios. Are there heuristics for how many iterations it takes?
-- 
+Broad:
+- Acq:
+	- Reddit GTM
+	- Ref link changeup
+- Product:
+	- Docs
+	- Provider visibility
+	- messaging
+	- customer service
+	- Decrease felt GPU price by 50%
+	- Orbio
+- Tech
+	- Request bouncing
+	- Can we flex stats
+	- For Surplus:
+		- Figure out at what request / min we're at the "knee"
+		- Figure out whether we can quote our way into the "knee" on Surplus
+	- v4 flash can we serve
+	- hetzner
+	- 
 
 Critical and Do Now:
 - Waiting
